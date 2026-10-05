@@ -1,0 +1,30 @@
+{
+  "note": "SHA-256 of preserved artwork, fonts and audio in the exported 46.6-second project.",
+  "files": {
+    "lib.js": "823e6ae89857593f354f37660aa4912559b3e913885d9224bf214c273cd5aade",
+    "photos.js": "6238dddbc1dc051a72cb3bfe0d619e8418ea8748278e58e8bca3472cfa3cc8cd",
+    "photos-extra.js": "fce25f3cf2f91c0b845c6037ac0734a90b4d97fdcb861294befe8929a596e633",
+    "fonts/HannotateSC-W5.ttf": "9436b5badd93e67497f94820355eab01aa82398fbb144cb8b472b8b11d9b1049",
+    "fonts/HannotateSC-W7.ttf": "2a9ecd390304080541fa01526e6ce6db741b7075a9ef8d7860fef1a642a00514",
+    "fonts/WawaSC-Regular.otf": "3dd67c3f9e9a391aa7ce4d5656e6102a87b7f8ea73697e4d9f498689dab1dec3",
+    "audio/c1.mp3": "b726d81c9f81dd50aa7860632176b035e471ccb4b725273ba6244dd0938671a4",
+    "audio/c1.wav": "0cbdda45a7365f4d43f923674d684287d2c3c1c7a803dd73ed2c6d55b29fbb06",
+    "audio/c2.mp3": "8b6afa9237f50fda2ab55c593cd740e4ac5eb0eb296c686f94035ddc95c6d646",
+    "audio/c2.wav": "a9db6b03a40563ec1d95417c07e8f4394dda23ed0f052ee7e7280fa8d9ee7078",
+    "audio/c3.mp3": "b7394a131315f3a27c979b7c1b0672eaf4a43e1f58b409284db97a16ba916580",
+    "audio/c3.wav": "5fef208cdbc6aa8359ffaeca2cdb2465f1841f6d11e650458c44866c5bd4abed",
+    "audio/c4.mp3": "108a9b5f99d87d2c25579df40fd6813afb93167079dc989a9dfa4065898d815d",
+    "audio/c4.wav": "997f6efb5fee6d95f767a6c95d453145644aed387d4946bfb3ca299298bf6205",
+    "audio/c5.mp3": "814cc546f74b428514a3bbcc94bf54affaa9f93242b0da6a10380e7ecae128d4",
+    "audio/c5.wav": "ee21b9b3bc88aea24f4fd303e1ae3a5674a823ff3fd9aebc1ce436cd6c1c4d0c",
+    "audio/p1.mp3": "90f8393702af17acbac944c0fa1dbcd061da8f5af7c7b4ad754d010c20f6befe",
+    "audio/p1.wav": "ce42f69e47e5719b098d51de7a447a6187927be46ea676516aeaece086c21053",
+    "audio/p2.mp3": "3902c1bb4d27a8900badb0bca1d57568260e2882c39616510aa623edf8c191c0",
+    "audio/p2.wav": "b5cc22785e016534519ba6ce976b4d5318bbd3dd18ad458172be3398b3d352f9",
+    "audio/p3.mp3": "4b91219661a57a161743c43d451d6b46389d4705f9b6e6cdc2c2bbf5723405ac",
+    "audio/p3.wav": "46cf110f24ccfd52460f545969b9bd5c2e3dd9db3ccb0c22634103a0d64e879f",
+    "music/bgm.wav": "99491ca45034c2e202fd1e4cf2e25a471ee25627757050c6a45da72d32f4c695",
+    "music/source.wav": "b0a102cf2c61994cf7cae7c5a40be807655a364583ab12b168788bf6fc68dedd"
+  },
+  "text_newlines": "LF for JavaScript source files, to support Git line ending normalization"
+}

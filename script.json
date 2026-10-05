@@ -1,0 +1,7 @@
+{
+ "title":"小螃蟹剪国庆相册",
+ "duration":46.6,
+ "format":{"width":1920,"height":1080,"fps":60},
+ "note":"第三版：24 张手绘素材中精选 16 张进入 10.5 秒全屏卡点相册，删去 7 张相近题材；每拍 0.5 秒，海边、国庆横幅、火锅留两拍，合影留三拍。结尾提前 3.5 秒，配音保持自然语速。",
+ "music":{"bgm_file":"music/bgm.wav","bgm_volume":0.48,"sfx_volume":0.60,"keep_dynamics":true,"mutes":[[22.7,25.9],[40.7,43.4]],"duck":{"db":2,"kinds":["boom","scratch","dingdong"]},"sfx_gain":{"whoosh":0.70,"paper":1.0,"scribble":0.7,"dingdong":1.1}}
+}

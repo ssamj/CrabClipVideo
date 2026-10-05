@@ -1,0 +1,17 @@
+{
+  "name": "crab-national-day-editor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Canvas 2D 手绘动画：小螃蟹剪辑国庆相册",
+  "scripts": {
+    "preview": "node tools/render.mjs --preview",
+    "photos": "node tools/render.mjs --export-photos",
+    "render": "node tools/render.mjs --workers 4"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

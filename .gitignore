@@ -1,0 +1,27 @@
+# Local dependencies and caches
+node_modules/
+.venv/
+venv/
+.runtime/
+__pycache__/
+*.py[cod]
+.cache/
+.npm-cache/
+.playwright/
+
+# Reproducible outputs; keep the source drawings and audio assets
+out/
+preview/
+photos/
+versions/
+
+# Editor, OS and local secrets
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.log
